@@ -15,10 +15,13 @@ Currently building software used in production and experimenting with game serve
 Time attendance system used in production at my workplace.  
 
 ### Project Mirage
-MMORPG with a Unity client and custom C++ server.  
+In progress... 
   
 ### [Speaking Easy](https://speakingeasy.ru)
 Fullstack developer for Speaking Easy project.
+
+### [Capital repairs fund 29](https://fond29.ru)
+Fullstack Developer for the Arkhangelsk Region Capital Repairs Fund website. Built a completely updated web platform from scratch using C# for the backend, and HTML5, CSS3, and JavaScript for the frontend.
 
 ## Contact me  
   
