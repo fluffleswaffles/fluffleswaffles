@@ -23,6 +23,9 @@ Fullstack developer for Speaking Easy project.
 ### [Capital repairs fund 29](https://fond29.ru)
 Fullstack Developer for the Arkhangelsk Region Capital Repairs Fund website. Built a completely updated web platform from scratch using C# for the backend, and HTML5, CSS3, and JavaScript for the frontend.
 
+### [rapuyama-linux](https://github.com/fluffleswaffles/rapuyama-linux)
+Currently trying to run linux kernel on old symbian phones (such as e6, n8, e7 and c7)
+
 ## Contact me  
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fluffles69) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/165064732141682688)
